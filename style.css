@@ -1,15 +1,17 @@
 body{
     text-align: center;
-    background-color: #283149;
+    
+    background-image: url("https://c1.wallpaperflare.com/preview/318/794/466/drums-set-people-man.jpg");
 }
 h1{
-    font-size: 5 rem;
+    font-weight: 500;
+    font-size: 500%;
     color: azure;
     text-shadow: 3px 0 #000000;
 }
 .drum{
     outline: none;
-    border: 10px solid #404B69;
+    border: 10px solid #14151a53;
     font-size: 4rem;
     line-height: 2 ;
     font-weight: 900;
@@ -20,8 +22,10 @@ h1{
     text-align: center;
     margin: 10px;
     background-color: azure;
-    color: #404B69;
+    color: #383c42;
 }
+
+
 
 footer{
     color: azure;
@@ -29,7 +33,7 @@ footer{
 
 }
 .set{
-    margin: 7.5% auto;
+    margin: 3% auto;
 }
 .pressed{
     box-shadow: 0 3px 4px 0 white;
