@@ -10,16 +10,17 @@ h1{
 .drum{
     outline: none;
     border: 10px solid #404B69;
-    font-size: 5rem;
+    font-size: 4rem;
     line-height: 2 ;
     font-weight: 900;
-    border-radius: 10px;
+    border-radius: 50%;
     display: inline-block;
     width: 150px;
     height: 150px;
     text-align: center;
     margin: 10px;
     background-color: azure;
+    color: #404B69;
 }
 
 footer{
