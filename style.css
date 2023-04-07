@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color: #283149;
+}
+h1{
+    font-size: 5 rem;
+    color: azure;
+    text-shadow: 3px 0 #000000;
+}
+.drum{
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    line-height: 2 ;
+    font-weight: 900;
+    border-radius: 10px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: azure;
+}
+
+footer{
+    color: azure;
+    font-family: sans-serif;
+
+}
+.set{
+    margin: 7.5% auto;
+}
+.pressed{
+    box-shadow: 0 3px 4px 0 white;
+    opacity: 0.6;
+}
+.red{
+    color: red;
+}
